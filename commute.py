@@ -39,4 +39,4 @@ async def on_message(message):
         except:
             pass
 
-client.run('NzYwODAyMjg5OTI1MDk1NDc1.X3RWWA.BxOyTM-ej9SCDVUgRNTlABN2SdE')
+client.run('NzYwODAyMjg5OTI1MDk1NDc1.X3RWWA.r1XtC2-oV7CVeiymZrD0wVmIn9g')
